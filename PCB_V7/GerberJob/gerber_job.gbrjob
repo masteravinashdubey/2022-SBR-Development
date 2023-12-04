@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2022-07-22T10:07:29Z",
+        "GenerationSoftware": {
+            "Application": "EAGLE",
+            "Vendor": "Autodesk",
+            "Version": "9.6.2"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 0.22,
+        "LayerNumber": 2,
+        "Name": {
+            "ProjectId": "Main_board"
+        },
+        "Owner": "Jaydev Yadav <Dev.jaydevyadav@gmail.com>",
+        "Size": {
+            "X": 150,
+            "Y": 150
+        }
+    }
+}
